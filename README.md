@@ -10,9 +10,9 @@ pip3 install -r requirements.txt
 
 ### Supported commands :
 
-Open reddit subreddit : Opens the subreddit in default browser.
-Open website abc.com : self-explanatory
-Send email/email : Follow up questions such as recipient name, content will be asked in order.
-Tell a joke/another joke : Says a random dad joke.
-Current weather in {cityname} : Tells you the current condition and temperture
-What's up
+#### Open reddit subreddit : Opens the subreddit in default browser.
+#### Open website abc.com : self-explanatory
+#### Send email/email : Follow up questions such as recipient name, content will be asked in order.
+#### Tell a joke/another joke : Says a random dad joke.
+#### Current weather in {cityname} : Tells you the current condition and temperture
+#### What's up
