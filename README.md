@@ -5,7 +5,7 @@ Install the dependencies in a virtual environment (using conda or virtualenv) to
 If you are a linux user install using below command.
 sudo apt-get install gnustep-gui-runtime
 
-pip2 install -r requirements.txt
+pip2 install -r requirements.txt or
 pip3 install -r requirements.txt
 
 ### Supported commands :
